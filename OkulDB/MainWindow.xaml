@@ -1,0 +1,19 @@
+﻿<Window x:Class="OkulDB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OkulDB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtAd" HorizontalAlignment="Left" Height="23" Margin="298,117,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtSoyad" HorizontalAlignment="Left" Height="23" Margin="298,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtnumara" HorizontalAlignment="Left" Height="23" Margin="298,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="kaydetbtn" Content="Kaydet" HorizontalAlignment="Left" Margin="298,259,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-1.027,-2.25" Height="29" Click="kaydetbtn_Click"/>
+        <Label Content="Ad" HorizontalAlignment="Left" Margin="236,117,0,0" VerticalAlignment="Top" Height="23" RenderTransformOrigin="0.395,3.565"/>
+        <Label Content="Soyad" HorizontalAlignment="Left" Margin="236,168,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.395,0.269" Height="32"/>
+        <Label Content="Numara" HorizontalAlignment="Left" Margin="236,215,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.211,5.462" Height="23" Width="57"/>
+
+    </Grid>
+</Window>

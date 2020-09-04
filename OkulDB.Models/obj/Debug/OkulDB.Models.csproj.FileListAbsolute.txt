@@ -1,0 +1,6 @@
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\bin\Debug\OkulDB.Models.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\bin\Debug\OkulDB.Models.pdb
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\obj\Debug\OkulDB.Models.csprojAssemblyReference.cache
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\obj\Debug\OkulDB.Models.csproj.CoreCompileInputs.cache
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\obj\Debug\OkulDB.Models.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.Models\obj\Debug\OkulDB.Models.pdb

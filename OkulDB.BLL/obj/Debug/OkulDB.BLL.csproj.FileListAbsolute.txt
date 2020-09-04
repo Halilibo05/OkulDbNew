@@ -1,0 +1,11 @@
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.BLL.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.BLL.pdb
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.DAL.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.Models.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.DAL.pdb
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\bin\Debug\OkulDB.Models.pdb
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\obj\Debug\OkulDB.BLL.csprojAssemblyReference.cache
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\obj\Debug\OkulDB.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\obj\Debug\OkulDB.BLL.csproj.CopyComplete
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\obj\Debug\OkulDB.BLL.dll
+C:\Users\hibes\source\repos\OkulDB\OkulDB.BLL\obj\Debug\OkulDB.BLL.pdb
